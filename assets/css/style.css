@@ -1,10 +1,10 @@
 /*Cambia el color de fondo de la pagina en general*/
 .content{
-    background-color: white;
+    background-color: blueviolet;
 }
 /*Cambia el color de fondo del encabezado*/
 .header__banner{
-    background-color: black;
+    background-color: red;
 }
 /*Cambia el tipo de letra del titulo a Oswald*/
 /*Cambia el color de la letra del titulo*/
