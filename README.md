@@ -18,3 +18,5 @@ Instrucciones paso a paso para instalar el proyecto:
 git clone https://github.com/usuario/repositorio.git
 cd repositorio
 npm install
+
+Configuracion del proyecto
